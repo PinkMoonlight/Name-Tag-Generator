@@ -1,7 +1,9 @@
+body {
+  background-color: #f8ffe5;
+}
 .App {
   font-family: sans-serif;
   text-align: center;
-  background-color: #f8ffe5;
 }
 
 /* Add Name Input */
