@@ -1,13 +1,13 @@
 {
-  "main.css": "/Name-Tag-Generator/static/css/main.48a91239.chunk.css",
-  "main.js": "/Name-Tag-Generator/static/js/main.6e4494cd.chunk.js",
-  "main.js.map": "/Name-Tag-Generator/static/js/main.6e4494cd.chunk.js.map",
+  "main.css": "/Name-Tag-Generator/static/css/main.79b77c53.chunk.css",
+  "main.js": "/Name-Tag-Generator/static/js/main.69b85404.chunk.js",
+  "main.js.map": "/Name-Tag-Generator/static/js/main.69b85404.chunk.js.map",
   "runtime~main.js": "/Name-Tag-Generator/static/js/runtime~main.51cdda84.js",
   "runtime~main.js.map": "/Name-Tag-Generator/static/js/runtime~main.51cdda84.js.map",
   "static/js/2.ee49d4bf.chunk.js": "/Name-Tag-Generator/static/js/2.ee49d4bf.chunk.js",
   "static/js/2.ee49d4bf.chunk.js.map": "/Name-Tag-Generator/static/js/2.ee49d4bf.chunk.js.map",
   "index.html": "/Name-Tag-Generator/index.html",
-  "precache-manifest.5b94eef8aebfa90f8b8893f843a4fc52.js": "/Name-Tag-Generator/precache-manifest.5b94eef8aebfa90f8b8893f843a4fc52.js",
+  "precache-manifest.679fc9c7c0efa165aa55b66018dd4c24.js": "/Name-Tag-Generator/precache-manifest.679fc9c7c0efa165aa55b66018dd4c24.js",
   "service-worker.js": "/Name-Tag-Generator/service-worker.js",
-  "static/css/main.48a91239.chunk.css.map": "/Name-Tag-Generator/static/css/main.48a91239.chunk.css.map"
+  "static/css/main.79b77c53.chunk.css.map": "/Name-Tag-Generator/static/css/main.79b77c53.chunk.css.map"
 }
