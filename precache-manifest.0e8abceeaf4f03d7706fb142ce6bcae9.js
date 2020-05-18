@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2bf24ce636123e411d8b",
-    "url": "/Name-Tag-Generator/static/css/main.79b77c53.chunk.css"
+    "revision": "377f5460ebfcd411a04a",
+    "url": "/Name-Tag-Generator/static/css/main.56fe05fb.chunk.css"
   },
   {
-    "revision": "2bf24ce636123e411d8b",
+    "revision": "377f5460ebfcd411a04a",
     "url": "/Name-Tag-Generator/static/js/main.f8c79169.chunk.js"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Name-Tag-Generator/static/js/2.ee49d4bf.chunk.js"
   },
   {
-    "revision": "8ea143b27c03c525008b839e9a5001ba",
+    "revision": "2ef709f33ac5d56a06edc12d1f668a7d",
     "url": "/Name-Tag-Generator/index.html"
   }
 ];

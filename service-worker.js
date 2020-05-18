@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Name-Tag-Generator/precache-manifest.aec7949081f11049f171ef9bd57568de.js"
+  "/Name-Tag-Generator/precache-manifest.0e8abceeaf4f03d7706fb142ce6bcae9.js"
 );
 
 workbox.clientsClaim();
